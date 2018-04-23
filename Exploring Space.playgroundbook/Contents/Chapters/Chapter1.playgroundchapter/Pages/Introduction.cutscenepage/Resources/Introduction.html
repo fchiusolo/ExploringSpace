@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <style>
+        html {
+            width: 100%;
+            height: 100%;
+        }
+
+        body {
+            background-color: black;
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+
+        h1,
+        p {
+            color: white;
+        }
+
+        #quoteContainer {
+            position: absolute;
+            width: 75vh;
+            height: 25vh;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
+
+        #quote {
+            font-style: italic;
+        }
+
+        #quoteSource {
+            text-align: end;
+        }
+
+        #rocketContainer {
+            position: absolute;
+            width: 75vw;
+            height: 25vh;
+            bottom: 50px;
+            right: 0;
+            left: 0;
+            margin: auto;
+        }
+
+        #rocket {
+            position: absolute;
+            display: block;
+            text-align: center;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 12px;
+            padding: 12px;
+            width: 10vw;
+            height: 3vh;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+            color: black;
+            background-color: whitesmoke;
+            background-image: url("RocketButton.png")
+        }
+
+        #rocket span {
+            vertical-align: middle;
+        }
+
+    </style>
+
+    <title>Exploring Space</title>
+</head>
+
+<body>
+    <div id="quoteContainer">
+        <h1 id="quote">
+            Mankind was born on Earth. It was never meant to die here.
+        </h1>
+        <p id="quoteSource">
+            <small>Interstellar (2014)</small>
+        </p>
+    </div>
+    <div id="rocketContainer">
+        <div class="rocket-body">
+            <div class="body"></div>
+            <div class="fin fin-left"></div>
+            <div class="fin fin-right"></div>
+            <div class="window"></div>
+        </div>
+        <a id="rocket" href="@next">Explore</a>
+    </div>
+</body>
+
+</html>
