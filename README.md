@@ -1,4 +1,6 @@
-# ExploringSpace
+![Cover Pic](/Images/Cover.png)
+
+# Playground Book Description
 My submission for WWDC18, unfortunately rejected 😢
 
 This Playground Book shows three key events in the space missions history that are:
@@ -8,6 +10,6 @@ This Playground Book shows three key events in the space missions history that a
 
 These events are presented as 2D scenes where the user has to build them and bring them to life using some coding concepts that are functions, objects and loops.
 
-### Here is the YouTube video, enjoy.
+# Exploring Space Demo
 
-[![Exploring Space Video](/YoutubeThumbnail.png)](https://youtu.be/tm-674IjvTc "Exploring Space Video")
+[![Exploring Space Video](/Images/YoutubeThumbnail.png)](https://youtu.be/tm-674IjvTc "Exploring Space Video")
