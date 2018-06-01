@@ -10,4 +10,4 @@ These events are presented as 2D scenes where the user has to build them and bri
 
 ### Here is the YouTube video, enjoy.
 
-[![Exploring Space Video](https://i2.ytimg.com/vi/tm-674IjvTc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBTLPID7CZfPzEeU5X17c2hFaAhBg)](https://youtu.be/tm-674IjvTc "Exploring Space Video")
+[![Exploring Space Video](/YoutubeThumbnail.png)](https://youtu.be/tm-674IjvTc "Exploring Space Video")
